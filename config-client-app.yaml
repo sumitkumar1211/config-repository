@@ -1,0 +1,4 @@
+some:
+  property: client specific app
+  other:
+    property: property specific to config-client app

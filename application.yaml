@@ -1,0 +1,5 @@
+# Put all global configuration here
+some:
+  property: global
+  other:
+    property: global

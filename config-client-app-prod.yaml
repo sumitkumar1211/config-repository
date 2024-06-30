@@ -1,0 +1,4 @@
+some:
+  property: client specific app to prod env
+  other:
+    property: property specific to config-client app to prod env
